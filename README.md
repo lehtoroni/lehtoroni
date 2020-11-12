@@ -2,7 +2,7 @@
 
 Hi there! I am **Roni Lehto**, also known by the nickname 'Tapsa'.
 
-I am a freelancer developer, mostly working with web based projects (...and occasionally enjoying some Java with *a certain voxel-base game*...)
+I am a freelancer developer, mostly working with web based projects (...and occasionally enjoying some Java with *a certain voxel-base game*). My best-known languages include Java, JavaScript (both Node.js and browser) and PHP.
 
 #### Contact
 Discord: `Tapsa#2716`<br>
