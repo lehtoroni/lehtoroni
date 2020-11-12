@@ -5,10 +5,8 @@ Hi there! I am **Roni Lehto**, also known by the nickname 'Tapsa'.
 I am a freelancer developer, mostly working with web based projects (...and occasionally some voxel-based games...)
 
 #### Contact
-Discord: `Tapsa#2716`
-
-E-mail: `roni.lehto` `-at-` `lehtodigital.fi`
-
+Discord: `Tapsa#2716`<br>
+E-mail: `roni.lehto` `-at-` `lehtodigital.fi`<br>
 Website: (www.lehtodigital.fi)[https://lehtodigital.fi/]
 
 
