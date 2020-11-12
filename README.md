@@ -9,6 +9,7 @@ Discord: `Tapsa#2716`<br>
 E-mail: `roni.lehto` `-at-` `lehtodigital.fi`<br>
 Website: (www.lehtodigital.fi)[https://lehtodigital.fi/]
 
+---
 
 ### 📍 Highlights
 My main project for over two years has been (L'Math)[https://lehtodigital.fi/lmath/], the free math editor for Finnish upper secondary students, which is originally based on the (Digabi Rich Text Editor)[https://github.com/digabi/rich-text-editor/].
