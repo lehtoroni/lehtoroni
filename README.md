@@ -1,11 +1,16 @@
 ## 🍐 Hello, world!
 
-Hiya! I am **Roni Lehto**, also known by the nickname 'Tapsa'. I am a freelancer developer, mostly working with web based projects (...and occasionally some voxel-based games...)
+Hi there! I am **Roni Lehto**, also known by the nickname 'Tapsa'.
+
+I am a freelancer developer, mostly working with web based projects (...and occasionally some voxel-based games...)
 
 #### Contact
 Discord: `Tapsa#2716`
+
 E-mail: `roni.lehto` `-at-` `lehtodigital.fi`
+
 Website: (www.lehtodigital.fi)[https://lehtodigital.fi/]
+
 
 ### 📍 Highlights
 My main project for over two years has been (L'Math)[https://lehtodigital.fi/lmath/], the free math editor for Finnish upper secondary students, which is originally based on the (Digabi Rich Text Editor)[https://github.com/digabi/rich-text-editor/].
