@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Discord-rautalapio-%237289da?style=flat-square&logo=discord)
+![](https://img.shields.io/badge/Discord-rautalapio-%237289da?style=flat-square&logo=discord&logoColor=white)
 
 ## 🍐 Hello there!
 I'm Roni, also known as "Tapsa", a Finnish freelance developer.
