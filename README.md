@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Discord-rautalapio-%237289da?style=flat-square&logo=discord)
+
 ## 🍐 Hello there!
 I'm Roni, also known as "Tapsa", a Finnish freelance developer.
 My main focus is on web technologies (HTML5, React, and Node.js, PHP & database stuff on the backend),
@@ -16,6 +18,6 @@ including work, hobbies and randomness.
 🚌 **[Nyssvääjä](https://nyssvaaja.lehtodigital.fi/)** - the simplest bus stop schedule on the web
 
 #### Contact
-Discord: `Tapsa#2716`<br>
+Discord: `rautalapio`<br>
 E-mail: `roni.lehto` `-at-` `lehtodigital.fi`<br>
 Website: [www.lehtodigital.fi](https://lehtodigital.fi/)
