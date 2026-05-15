@@ -7,7 +7,7 @@ My main focus is on web-ish technologies (TypeScript, React, Electron, REST), bu
 Most of my work happens under a private Gitea instance, thus you won't find much to look at here.
 
 #### Projects and stuff to look at
-Find an incomplete list of all kinds of stuff on my blog at [purnu.dy.fi](https://purnu.dy.fi/p/projects/),
+Find an incomplete list of all kinds of stuff on my blog at [purnu.dy.fi](https://purnu.dy.fi/p/projektit/),
 including work, hobbies and randomness.
 
 📝 **[L'Math](https://lehtodigital.fi/lmath)** - a math editor based on the [Abitti](https://abitti.dev) Rich Text Editor<br>
