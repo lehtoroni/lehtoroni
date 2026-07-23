@@ -17,11 +17,11 @@ Hello there. I am Roni, also known as "Tapsa", a Finnish code enjoyer. Also a te
 #### Look, I made it!!1 🫪
 - L'Math &middot; [Math notebook for Finnish students](https://lehtodigital.fi/lmath/)
   - Math notebook for Finnish students and teachers
-- `Kräks` &middot; https://crunch.lehtodigital.fi/
+- Kräks &middot; https://crunch.lehtodigital.fi/
   - Web based scientific calculator used in L'Math
-- `Nyssvääjä` &middot; https://nyssvaaja.lehtodigital.fi/
+- Nyssvääjä &middot; https://nyssvaaja.lehtodigital.fi/
   - Finnish public transportation data for boosting your daily bus trips
-- `MCNote` &middot; https://foo.purnu.dy.fi/mcnote/
+- MCNote &middot; https://foo.purnu.dy.fi/mcnote/
   - Note block music editor
 
 #### Find me on... 📬️
