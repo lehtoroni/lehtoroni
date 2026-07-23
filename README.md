@@ -1,22 +1,34 @@
 ![](https://img.shields.io/badge/Discord-rautalapio-%237289da?style=flat-square&logo=discord&logoColor=white)
 
-## 🍐 Hi!
-I'm Roni, also known as "Tapsa", a Finnish freelance developer.
-My main focus is on web-ish technologies (TypeScript, React, Electron, REST), but I also enjoy tinkering with Java and servers related to a popular voxel sandbox game.
+# 🍐
+Hello there. I am Roni, also known as "Tapsa", a Finnish code enjoyer. Also a teacher. And a student, still.
 
-Most of my work happens under a private Gitea instance, thus you won't find much to look at here.
+#### Currently ⌚️
+- Finishing my Master's degree at Tampere University
+- Developing and supporting [L'Math](https://lehtodigital.fi/lmath/)
+- Enjoying [hobby](https://purnu.dy.fi/) and [gaming](https://xeno.fi/) projects
 
-#### Projects and stuff to look at
-Find an incomplete list of all kinds of stuff on my blog at [purnu.dy.fi](https://purnu.dy.fi/p/projektit/),
-including work, hobbies and randomness.
+#### Skills 🏅
+`TypeScript` `React` `Electron` `Node.js` `Parcel` `PHP` `Java` `SQL`
 
-📝 **[L'Math](https://lehtodigital.fi/lmath)** - a math editor based on the [Abitti](https://abitti.dev) Rich Text Editor<br>
-🚌 **[Nyssvääjä](https://nyssvaaja.lehtodigital.fi/)** - the simplest bus stop schedule on the web
-🎶 **[MCNote²](https://foo.purnu.dy.fi/mcnote/)** - a web-based note block music editor<br>
-⛏️ **[Xeno](https://xeno.fi)** - development on a Minecraft Java server network<br>
+#### Interests 💜
+`Web` `Mathematics` `Teaching Technology` `Music` `Public Transport`
 
-#### Contact
-Discord: `rautalapio`<br>
-E-mail: `roni.lehto` `-at-` `lehtodigital.fi`<br>
-Professional website: [www.lehtodigital.fi](https://lehtodigital.fi/)<br>
-Hobby blog: [purnu.dy.fi](https://purnu.dy.fi/)
+#### Look, I made it!!1 🫪
+- L'Math &middot; [Math notebook for Finnish students](https://lehtodigital.fi/lmath/)
+  - Math notebook for Finnish students and teachers
+- `Kräks` &middot; https://crunch.lehtodigital.fi/
+  - Web based scientific calculator used in L'Math
+- `Nyssvääjä` &middot; https://nyssvaaja.lehtodigital.fi/
+  - Finnish public transportation data for boosting your daily bus trips
+- `MCNote` &middot; https://foo.purnu.dy.fi/mcnote/
+  - Note block music editor
+
+#### Find me on... 📬️
+- Professional: https://lehtodigital.fi/
+- Hobby: https://purnu.dy.fi/
+- Discord: `@rautalapio`
+- Email: `roni.lehto [ät] lehtodigital.fi`
+
+
+Most of my work happens on my private Gitea instance, but some of my more recent open source projects can be observed on here.
